@@ -8,10 +8,11 @@ The dataset used in this project is included in this repository in Excel format.
 
 ## Tools & Techniques Used
 - Microsoft Excel
+- Interactive Dashboards (incorporating Slicers for segmentation)
 - Pivot Tables
 - VLOOKUP
 - Data Cleaning
-- Data Visualization (Charts & Graphs)
+- Data Visualization (Dynamic Charts & Graphs)
 
 ## Key Insights
 - Identified trends and patterns in the dataset
