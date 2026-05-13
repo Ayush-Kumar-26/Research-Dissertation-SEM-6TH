@@ -22,6 +22,7 @@ The dataset used in this project is included in this repository in Excel format.
 
 ## Files Included
 - `Excel_Data_Analysis_Pivot_VLOOKUP.xlsx` → Contains raw data, analysis, pivot tables and visualizations
+- `Ayush Kumar (BBA AI) SEM 6TH Research paper .pdf` → Final research paper in APA 7th edition format containing methodology, findings, analysis and conclusions
 
 ## Conclusion
 This project demonstrates advanced proficiency in transforming fragmented primary research into structured business intelligence. By combining technical Excel engineering with strategic statistical modeling, I successfully identified critical friction points in AI-customer interactions. This research provides a data-backed framework for optimizing UI/UX strategies in the e-commerce sector, showcasing the practical application of business analytics to solve complex, real-world operational challenges.
