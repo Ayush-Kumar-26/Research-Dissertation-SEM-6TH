@@ -1,5 +1,9 @@
 # Dissertation Project: Data Analysis using Excel
 
+## Dashboard Preview
+
+![AI Chatbot Customer Experience Survey Dashboard](AI%20Chatbot%20Customer%20Experience%20Survey%20Dashboard%20%28Excel%29.png)
+
 ## Overview
 This repository contains a study on how well AI chatbots actually help customers when they shop online. By looking at data from 30 different people, the project uses a custom-built digital dashboard to show that while chatbots are great at following instructions, they struggle to understand human emotions.
 
